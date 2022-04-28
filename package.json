@@ -1,0 +1,23 @@
+{
+  "name": "testemaeztra",
+  "version": "1.0.0",
+  "description": "Nesse teste irei trazer a resolução de algumas questões técnicas relacionadas a uma vaga de emprego.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Casca0/testeMaeztra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Casca0/testeMaeztra/issues"
+  },
+  "homepage": "https://github.com/Casca0/testeMaeztra#readme",
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
